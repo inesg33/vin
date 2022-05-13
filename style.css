@@ -1,0 +1,49 @@
+body{
+	background-color: #D0CABD;
+	padding: 100px;
+	font-family: 'Playfair Display', serif;
+}
+
+
+h1 {
+	color: #830A0F;
+	text-align: center;
+}
+
+h2{
+	color: #8D2926;
+}
+
+p{
+	color: #D0CABD;
+}
+
+.small-size {
+	width: 100px;
+	
+
+}
+
+.medium-size {
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+}
+
+.elements-center{
+	text-align: center;
+}
+
+
+div {background-color: #B59863;
+	padding-right: 50px;
+	padding-left: 50px;
+	border: 5px solid #801E21;
+}
+
+
+.navigation-aligned {
+	display: flex;
+	justify-content: space-around;
+}
+
